@@ -1,0 +1,83 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### דף הבית
+https://example.com
+גלריה מקוונת יוקרתית לאמנות יהודית לבית דתי. ציורים של רבנים גדולים בצבעי יד, מלאי קדושה והדר. כל יצירה — חוויה רוחנית בלתי נשכחת לביתך.
+
+### תערוכה
+https://example.com/exhibition
+צאו למסע בתוך תערוכה מקוונת של ציורי רבנים מקוריים למכירה. כל תמונה נצבעה ביד אמן ומביאה את רוח הגדולים אל קירות ביתכם. בחרו את יצירת המופת שלכם.
+
+### אמן ואומנות
+https://example.com/artist-and-craft
+אמנית בינלאומית מוכרת יוצרת אמנות יהודית יוקרתית בשיטות ייחודיות. גלו את הסיפור, התהליך והנשמה שמאחורי כל ציור רב ורב — אמנות שהיא גם תפילה.
+
+### מדריך אספנות
+https://example.com/collecting-guide
+מדריך אספנות מקיף לרכישת אמנות יהודית לבית דתי. למדו כיצד לבחור ציורי רבנים מקוריים למכירה, להבין ערך יצירות מופת ולהפוך כל חדר לחלל של השראה.
+
+### צור קשר
+https://example.com/contact
+מוכנים להזמין ציור של רבנים גדולים שיהפוך לנשמת ביתכם? פנו אלינו היום לייעוץ אישי ומקצועי. אמנות יהודית יוקרתית מחכה לכם — כל שיחה מתחילה מכאן.
+
+### Products
+https://example.com/products
+המוצרים שלנו - Torah Legends Studio - הדרת קודש
+
+### Cart
+https://example.com/cart
+עגלת הקניות שלך
+
+### Checkout
+https://example.com/checkout
+תשלום
+
+### Login
+https://example.com/login
+התחברות לקוחות
+
+### Account
+https://example.com/account
+החשבון שלי
+
+### Order Success
+https://example.com/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - Torah Legends Studio - הדרת קודש
+
+### Category
+https://example.com/category/:slug
+מוצרים - Torah Legends Studio - הדרת קודש
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
